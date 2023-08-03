@@ -32,7 +32,7 @@ We will discover how much these factors impact prices and if there are other les
 <html>
 
 <body>
-    <p> <a href="https://github.com/davicanada/PythonHousingPrediction1/blob/main/Housing%20price%20prediction%20Python.ipynb!">Click here to se more projects details</a></p>
+    <p> <a href="https://github.com/davicanada/PythonHousingPrediction1/blob/main/Housing%20price%20prediction%20Python.ipynb">CLICK HERE TO SEE MORE DETAILS OF THE PROJECT!</a></p>
 </body>
 </html>
 
