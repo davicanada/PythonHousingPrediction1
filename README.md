@@ -28,4 +28,11 @@ The location of the property should make a significant difference in the price s
 Additional amenities/facilities may have a significant impact, considering the presence of many old buildings and houses in Rio de Janeiro.
 We will discover how much these factors impact prices and if there are other less intuitive factors that are extremely important.
 
-#### The project was made on Jupyter Notebook and there's more details there. Click on Housing price prediction Python.html
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p> <a href="https://github.com/davicanada/PythonHousingPrediction1/blob/main/Housing%20price%20prediction%20Python.ipynb!">Click here to se more projects details</a></p>
+</body>
+</html>
+
